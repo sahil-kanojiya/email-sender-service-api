@@ -44,3 +44,7 @@ build/
 # Whitelist GitHub configurations
 !.github/
 !.github/**
+
+# Allow Render blueprint
+!render.yaml
+!render.yml
