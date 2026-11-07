@@ -38,3 +38,5 @@ build/
 # Ignore all yaml and yml files
 *.yml
 *.yaml
+!.mvn/wrapper/maven-wrapper.properties
+!.mvn/wrapper/maven-wrapper.jar
